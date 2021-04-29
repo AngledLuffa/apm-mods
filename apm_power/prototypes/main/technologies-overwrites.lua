@@ -95,3 +95,19 @@ apm.lib.utils.technology.add.prerequisites('weapon-shooting-speed-2', 'logistic-
 apm.lib.utils.technology.add.prerequisites('physical-projectile-damage-2', 'logistic-science-pack')
 
 apm.lib.utils.technology.force.recipe_for_unlock('uranium-processing', 'apm_coal_ash_washing')
+
+apm.lib.utils.technology.add.prerequisites('braking-force-3', 'production-science-pack')
+apm.lib.utils.technology.add.prerequisites('inserter-capacity-bonus-4', 'production-science-pack')
+apm.lib.utils.technology.add.prerequisites('research-speed-5', 'production-science-pack')
+apm.lib.utils.technology.add.prerequisites('worker-robots-storage-2', 'production-science-pack')
+
+apm.lib.utils.technology.add.prerequisites('energy-weapons-damage-5', 'utility-science-pack')
+apm.lib.utils.technology.add.prerequisites('laser-shooting-speed-5', 'utility-science-pack')
+apm.lib.utils.technology.add.prerequisites('physical-projectile-damage-6', 'utility-science-pack')
+apm.lib.utils.technology.add.prerequisites('refined-flammables-4', 'utility-science-pack')
+apm.lib.utils.technology.add.prerequisites('stronger-explosives-4', 'utility-science-pack')
+apm.lib.utils.technology.add.prerequisites('weapon-shooting-speed-6', 'utility-science-pack')
+apm.lib.utils.technology.add.prerequisites('worker-robots-speed-3', 'utility-science-pack')
+
+apm.lib.utils.technology.add.prerequisites('mining-productivity-3', 'production-science-pack')
+apm.lib.utils.technology.add.prerequisites('mining-productivity-3', 'utility-science-pack')
